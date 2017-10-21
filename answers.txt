@@ -1,0 +1,27 @@
+1.) I think we are not p_hacking if we later shift to examining instructors only data. 
+
+As professor's comment indicate, instructors may be the subet of users that uses the search engine
+more often. Moreover, we are using the same methodology for both users and instructors, we are not 
+changing our test methods to reach a significance value. 
+
+We must be careful to make sure we have change our question. 
+
+From     
+    Did more users use the search feature? (More precisely: did a different fraction of users have search count > 0?)
+    Did users search more often? (More precisely: is the number of searches per user different?) 
+
+To 
+    Did more/less instructors use the search feature?
+    Did instructors search more/less?
+
+and the answers from the first two cannot apply to the instructors. 
+
+
+2.) If we run T Test for every pair, we would need to run 21 tests to cover all seven sorting run time
+because there are (7,2) possibilities. 
+                  
+
+
+                  
+                  
+            
